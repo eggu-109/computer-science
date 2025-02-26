@@ -35,15 +35,6 @@ as it is assumed most of the people following this curriculum are already educat
 The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,
 but specifically chosen to meet the following criteria.
 
-**Courses must**:
-- Be open for enrollment
-- Run regularly (ideally in self-paced format, otherwise running multiple times per year)
-- Be of generally high quality in teaching materials and pedagogical principles
-- Match the curricular standards of the [CS 2013](CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science
-
-When no course meets the above criteria, the coursework is supplemented with a book.
-When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
@@ -85,8 +76,8 @@ just remember that you can't purchase success!
 >  - An unmaintained and deprecated trello board
 >  - Third-party notion templates
 
-# Curriculum
-
+# Curriculum  
+✅
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
